@@ -5,8 +5,8 @@ OpenAI key is required
 
 # Requirements
 
-openai = 0.28.1 
-langchain
+openai = 0.28.1 \n
+langchain \n
 docx
 json
 streamlit
